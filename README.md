@@ -9,7 +9,7 @@
 ### Trainees' Names:
 - __Mohamed Ayman Elsaadany__
 - __Sherin Ehab Kotb__
-- __Aya Omar Mohammed __
+- __Aya Omar Mohammed__
 - __Mohamed Ahmed Awad__
 - __Haneen Mohamed Elmetwally__
 </br>
