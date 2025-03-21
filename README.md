@@ -28,7 +28,7 @@
         ✅ Create Empathy Maps (Understand what users Think, Feel, Say, and Do).    
         ✅ Identify Friction Points & Opportunities for Design Solutions.      
 
-      3. __Ideate Phase__ → *Structure*
+      3. __Ideate Phase__ → *Structure*  
          ✅ Create Information Architecture & User Flows.
 
   - Next Stages will Include:  
