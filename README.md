@@ -33,9 +33,9 @@
 
   - Next Stages will Include:  
       1. __Prototype Phase__ → *Skeleton and Surface Phases*  
-         ✅ Start intial designs with Medium-Fidelity Wireframes (using the structure from IA).
-         ✅ Generate aesthetically-pleasing & user-centric High-Fidelity Designs.
-         ✅ Prototyping the designs into interactive mockups with Microinteractions that enhance the overall design.
+         ✅ Start intial designs with Medium-Fidelity Wireframes (using the structure from IA).  
+         ✅ Generate aesthetically-pleasing & user-centric High-Fidelity Designs.  
+         ✅ Prototyping the designs into interactive mockups with Microinteractions that enhance the overall design.  
 
       2. __Test Phase__  
          ✅ Usability testing with actual users to refine the design.  
