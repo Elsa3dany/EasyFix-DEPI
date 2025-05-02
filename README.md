@@ -7,7 +7,7 @@
 
 ## This project is done by **Group B**: **Soul City**
 ### Trainees' Names:
-- __Haneen Mohamed Elmetwally__- *Team Leader*
+- __Haneen Mohamed Elmetwally__ | *Team Leader*
 - __Aya Omar Mohammed__
 - __Mohamed Ayman Elsaadany__ 
 - __Mohamed Ahmed Awad__
