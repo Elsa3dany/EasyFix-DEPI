@@ -48,9 +48,9 @@
     🎨 __Style Guide__  
     🪄 __UX Case Study (*Old & New Implementations*)__  
     🌊 __User Flow__  
-    🏗️ __Information Architecture__
-    📱 __UI Screens__
-    🧩 __Components & Assets__
+    🏗️ __Information Architecture__  
+    📱 __UI Screens__  
+    🧩 __Components & Assets__  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🧑‍🎨 Styles:  
 
