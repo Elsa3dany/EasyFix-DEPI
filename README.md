@@ -39,9 +39,6 @@
 
       2. __Test Phase__  
          ✅ Usability testing with actual users to refine the design.  
-
-      3. __Implement Phase__ → *(Optional)*    
-         ✅ Turn the design into a real-life solution with code!
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > [!IMPORTANT]
 > We used "Design Thinkning" as our UX Process because it ensures user-centered UX solutions by fostering empathy, creativity, and iterative problem-solving. It improves usability, reduces costs, and     enhances collaboration, leading to innovative and effective designs.
