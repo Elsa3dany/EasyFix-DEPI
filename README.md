@@ -14,8 +14,8 @@
 - __Sherin Ehab Kotb__
 </br>
 
-## Project-related Links
-### [Project Management Board](https://trello.com/invite/b/67c3bd8f67d8509e87bce7bc/ATTI07bacea94fd57a9fefee81ccdc6abe430EB57DE5/depi-graduation-project).
+# Project-related Links
+## [Project Management Board](https://trello.com/invite/b/67c3bd8f67d8509e87bce7bc/ATTI07bacea94fd57a9fefee81ccdc6abe430EB57DE5/depi-graduation-project).
   - Used Tool: __Trello__
   - Includes Full Documentation of all Stages Done Till Now & the Plan for Upcoming Stages as well.
   - This stage included:
@@ -39,19 +39,18 @@
 
       2. __Test Phase__  
          ✅ Usability testing with actual users to refine the design.  
-
-      3. __Implement Phase__ → *(Optional)*    
-         ✅ Turn the design into a real-life solution with code!
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > [!IMPORTANT]
 > We used "Design Thinkning" as our UX Process because it ensures user-centered UX solutions by fostering empathy, creativity, and iterative problem-solving. It improves usability, reduces costs, and     enhances collaboration, leading to innovative and effective designs.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### [Figma File](https://www.figma.com/design/vKgTN9CDoyIt4IrtshoCgL/Easy-Fix?node-id=163-18&t=3G5bvoNyfKK1aQWO-1).  
+## [Figma File](https://www.figma.com/design/vKgTN9CDoyIt4IrtshoCgL/Easy-Fix?node-id=163-18&t=3G5bvoNyfKK1aQWO-1).  
   - File Includes:  
     🎨 __Style Guide__  
     🪄 __UX Case Study (*Old & New Implementations*)__  
     🌊 __User Flow__  
-    🏗️  __Information Architecture__
+    🏗️ __Information Architecture__  
+    📱 __UI Screens__  
+    🧩 __Components & Assets__  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🧑‍🎨 Styles:  
 
@@ -60,8 +59,14 @@
   - __Secondary Color__: #E6C038
 
 #### 🅰️ Fonts
+##### English:
   - __Headings__: Quicksand.
   - __Text__: Outfit
+    
+##### Arabic
+  - __All__: Al-Marai. 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Thank you for Reading 🙏
+
+![BowingThankYouGIF](https://github.com/user-attachments/assets/5e5557f8-d95b-49f6-a998-ced29050ec30)
